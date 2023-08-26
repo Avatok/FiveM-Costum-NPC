@@ -1,4 +1,4 @@
-# FiveM-Costum-NPC
+# FiveM-Costum-NPC (Execute Command)
 
 Deutsch:
 Inviduelle FiveM Ped mit verschiedenen Funktionen.
